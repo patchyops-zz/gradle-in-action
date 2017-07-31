@@ -1,0 +1,25 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1501475479957" ID="ID_1654698597" MODIFIED="1501475503157" TEXT="Gradle In Action">
+<node CREATED="1501475526320" ID="ID_1063284172" MODIFIED="1501475535717" POSITION="right" TEXT="Intro to Project Automation">
+<node CREATED="1501475736203" ID="ID_15937542" MODIFIED="1501475749092" TEXT="Without Project Automation">
+<node CREATED="1501475751786" ID="ID_1842974297" MODIFIED="1501475758804" TEXT="IDE does everything"/>
+<node CREATED="1501475833977" ID="ID_120638499" MODIFIED="1501475847093" TEXT="Every developer needs same version of IDE"/>
+<node CREATED="1501475786234" ID="ID_279494174" MODIFIED="1501475799589" TEXT="&quot;Works on my machine&quot;"/>
+<node CREATED="1501475802505" ID="ID_85736223" MODIFIED="1501475825893" TEXT="Disastrous code integration"/>
+<node CREATED="1501475862697" ID="ID_1950998510" MODIFIED="1501475888900" TEXT="Sending builds to QA works badly"/>
+<node CREATED="1501475898200" ID="ID_1044869314" MODIFIED="1501475914372" TEXT="Deployment = firefighting with last min issues"/>
+<node CREATED="1501475929288" ID="ID_32466236" MODIFIED="1501475938197" TEXT="Frequent releases are not possible"/>
+</node>
+<node CREATED="1501475951001" ID="ID_1960293982" MODIFIED="1501475957765" TEXT="With Project Automation">
+<node CREATED="1501475982937" ID="ID_1394209705" MODIFIED="1501475991508" TEXT="Prevents manual intervention"/>
+<node CREATED="1501475992441" ID="ID_1304139019" MODIFIED="1501476011749" TEXT="No handholding necessary"/>
+<node CREATED="1501476016536" ID="ID_1840256691" MODIFIED="1501476021748" TEXT="Human mistakes avoided"/>
+<node CREATED="1501476030040" ID="ID_1930731789" MODIFIED="1501476034789" TEXT="Creates repeatable builds"/>
+<node CREATED="1501476043209" ID="ID_381846528" MODIFIED="1501476047317" TEXT="Builds become portable"/>
+<node CREATED="1501476058728" ID="ID_926547427" MODIFIED="1501476065172" TEXT="Any OS / IDE can be used"/>
+</node>
+<node CREATED="1501476080840" ID="ID_637382117" MODIFIED="1501476090244" TEXT="Types of Project Automation"/>
+</node>
+</node>
+</map>
